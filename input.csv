@@ -1,0 +1,29 @@
+﻿EPIC,SUMMARY,SERV,,IOS,,AND,,NOTES
+,As a user I need to: ,E,C,E,C,E,C,
+EPIC ONE,epic 1 summary,,,,,,,epic 1 description
+,USER STORY 1,0.5,5,2,4,1.5,2,userstory1 desc
+,USER STORY 2,,,1,4,2,5,userstory2 desc
+,USER STORY 3,3,4,,,4,4,userstory3 desc
+,USER STORY 4,5,4,6,4,,,userstory4 desc
+,USER STORY 5,,,,,7,,userstory5 desc
+,USER STORY 6,,,8,,,,userstory6 desc
+,USER STORY 7,9,,,,,,userstory7 desc
+,USER STORY 8,,,,,,,userstory8 desc
+,,,,,,,,
+EPIC TWO,epic2summary,,,,,,,epic2desc
+,USER STORY XX,,,11,4,12,2,userstoryXXdesc
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+END,TOTALS:,17.5,0,28,0,26.5,0,
+,Estimated Days: 72,,,,,,,
+,Average (Weighted) Confidence: 0,,,,,,,
+,,,,,,,,
+,Participants:,,,,,,,
